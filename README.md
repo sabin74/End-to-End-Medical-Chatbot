@@ -1,4 +1,4 @@
-#End-to-End-Medical-Chatbot-with-LLMs-LangChain-Pinecone-Flask-Docker
+# End-to-End-Medical-Chatbot-with-LLMs-LangChain-Pinecone-Flask-Docker
 
 # How to run?
 ### STEPS:
